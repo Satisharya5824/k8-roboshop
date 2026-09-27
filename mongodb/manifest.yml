@@ -27,7 +27,7 @@ spec:
     spec:
       containers:
         - name: mongodb
-          image: adithyagorapalli/mongodb:v1
+          image: satisharya01/mongodb:v1
 
 
 

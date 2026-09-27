@@ -100,7 +100,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: adithyagorapalli/frontend:v1
+        image: satisharya01/frontend:v1
         volumeMounts:
         - name: nginx-conf
           mountPath: /etc/nginx/nginx.conf

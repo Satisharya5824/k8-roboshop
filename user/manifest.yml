@@ -41,7 +41,7 @@ spec:
     spec:
       containers:
         - name: user
-          image: adithyagorapalli/user:v1
+          image: satisharya01/user:v1
           envFrom:
             - configMapRef:
                 name: user
